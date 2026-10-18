@@ -1,0 +1,11 @@
+event_id,event_type,event_name,start_time,end_time,scope,geo_tag,severity_1to5
+EVT001,Weather,Typhoon disruption in East Asia,2025-02-12T00:00:00Z,2025-03-19T00:00:00Z,RouteRisk,Shanghai,4
+EVT002,Weather,Pacific hurricane / LA-LB congestion,2025-03-15T00:00:00Z,2025-04-12T00:00:00Z,PortOps,LA-LB,5
+EVT003,Seismic,Shanghai earthquake recovery,2025-04-15T00:00:00Z,2025-04-29T00:00:00Z,PortOps,Shanghai,5
+EVT004,Conflict,Red Sea diversion,2025-05-16T00:00:00Z,2025-07-25T00:00:00Z,RouteRisk,Red Sea,4
+EVT005,Geopolitics,CN-US tariff announcement,2025-06-16T00:00:00Z,2025-07-07T00:00:00Z,Tariff,CN-US,3
+EVT006,Geopolitics,CN-US tariff effective date,2025-07-17T00:00:00Z,2025-10-15T00:00:00Z,Tariff,CN-US,5
+EVT007,Ops,Midwest winter rail disruption,2025-08-17T00:00:00Z,2025-09-04T00:00:00Z,Domestic,Midwest,4
+EVT008,Ops,Rail capacity constraint,2025-09-17T00:00:00Z,2025-09-29T00:00:00Z,Domestic,Chicago corridor,3
+EVT009,Weather,Southeast flooding,2025-10-18T00:00:00Z,2025-10-28T00:00:00Z,Domestic,Southeast,3
+EVT010,Ops,Customs system outage,2025-11-18T00:00:00Z,2025-11-24T00:00:00Z,Domestic,US Customs,3
